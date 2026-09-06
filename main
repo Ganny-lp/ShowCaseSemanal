@@ -36,7 +36,7 @@ section{padding:72px 0}.section-head{display:flex;justify-content:space-between;
 
 <section id="contribuicoes">
 <div class="container">
-<div class="section-head"><div><div class="kicker">Contribuições</div><h2>Objetivo, contexto e resultado.</h2></div><p>O foco é deixar explícito o que foi efetivamente realizado em cada issue — sem atribuir ao autor uma intervenção que não ocorreu.</p></div>
+<div class="section-head"><div><div class="kicker">Contribuições</div><h2>Objetivo, contexto e resultado.</h2></div></div>
 
 <article class="case">
 <div class="copy"><div class="number">01 / APACHE CAMEL K</div><h3>Padronização de condições de Custom Resources</h3>
